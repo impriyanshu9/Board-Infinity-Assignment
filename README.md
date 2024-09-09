@@ -27,8 +27,7 @@ A Kanban board application where users can create, edit, delete tasks, and chang
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kanban-board.git
-   cd kanban-board
+   https://github.com/impriyanshu9/Board-Infinity-assignment.git
 
 ## Install dependencies
 npm install
@@ -47,6 +46,4 @@ npm run dev
 ## License
 This project is open source and available under the MIT License.
 
-
-## Make sure to replace `"yourusername"` with your GitHub username in the repository link!
 
