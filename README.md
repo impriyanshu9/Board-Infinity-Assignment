@@ -19,6 +19,9 @@ A Kanban board application where users can create, edit, delete tasks, and chang
 
 ## Getting Started
 
+## Notion Page
+link <https://www.notion.so/Getting-Started-c5c0ff0879c343d0829cbd0e12acaa94?pvs=4>
+
 ### Prerequisites
 - Node.js
 - npm or yarn
